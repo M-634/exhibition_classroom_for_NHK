@@ -3,12 +3,17 @@ guid: 999317cded030c24a962acc42e0308ff
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corridor_wall1
+    second: {fileID: 2100000, guid: c9ea254a0f050514991db45ab72d06d4, type: 2}
   materials:
     materialImportMode: 1
-    materialName: 1
+    materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
