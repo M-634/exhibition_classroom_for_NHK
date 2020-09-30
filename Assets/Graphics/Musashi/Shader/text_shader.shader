@@ -38,8 +38,9 @@
 
             Cull Back //defultだとここが Offになっているので透けて見えてしまう。
             Lighting Off
-            ZWrite Off
-            ZTest[unity_GUIZTestMode]
+            ZWrite On
+            //ZTest[unity_GUIZTestMode]
+            ZTest LEqual
             Blend SrcAlpha OneMinusSrcAlpha
             ColorMask[_ColorMask]
 
