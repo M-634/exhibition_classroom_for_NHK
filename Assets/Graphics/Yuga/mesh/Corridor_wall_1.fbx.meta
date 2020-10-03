@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: 156229501c3ad904fbc79d16754fe035
+guid: 5bfa6fbe675ab5b4ab2217cea3d6f3a5
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door1
+    second: {fileID: 2100000, guid: 40e28315a4e484e4da11822e27174a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: endwall1
+    second: {fileID: 2100000, guid: c3948bb50883ac342b1c634ba4675103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window6
+    second: {fileID: 2100000, guid: 22ea0d3b81274914697bb34d62880159, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1
