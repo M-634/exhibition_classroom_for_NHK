@@ -1,5 +1,8 @@
-DisPlayClassRoomシーンにサンプルがあります。
+DisPlayClassRoom ファルダー内の DisPlayClassRoomシーンにサンプルがあります。
 DisPlayClassRoom.Prefabは BaseClassRoom.PrefabとDecorations.Prefabのメッシュとマテリアルを統一したものです。
 Easelの大きさは、1.5倍に修正済みです。
+飾り付けがない教室は、BaseClassRoomフォルダー内のBaseClassRoomシーンにサンプルがあります。
+
+ご確認のほどよろしくお願いいたします。
 
 
